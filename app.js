@@ -1,5 +1,1 @@
-while (true) {
-	let x = 0;
-	document.getElementById("lol").innerHTML = x;
-	x++;
-};
+document.getElementById("lol").innerHTML = 0;
