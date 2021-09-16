@@ -1,1 +1,2 @@
-document.getElementById("lol").innerHTML = 0;
+const main = document.getElementById("main");
+main.innerHTML = 0;
