@@ -1,3 +1,8 @@
-#main {
-	color: red;
+#main {}
+#nav {}
+#navtitle {}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
 }
